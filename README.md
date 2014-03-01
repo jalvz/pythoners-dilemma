@@ -88,7 +88,7 @@ Lets kick some matches with a Prissoner's Dilemma matrix and 100 rounds per matc
 
 
 
-On top of this, we can simulate a population of strategies, put them to work, and see how the populations evolve.
+On top of this, we can simulate a population of strategies, put them to play, and see how the population evolve.
 These are the rules:
 
 1 - There is a initial queue filled randomly with strategies passed as input.
