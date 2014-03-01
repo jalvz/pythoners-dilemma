@@ -1,4 +1,4 @@
-pythoners-dilemma is a simple implementation of a well know [cooperative game] (http://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
+pythoners-dilemma is a simple implementation of a well known [cooperative game] (http://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
 
 
 The purpose is to show how the game evolves with different strategies (This means that you 
